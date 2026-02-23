@@ -103,6 +103,7 @@ This project was built to practice collecting real world data and transforming i
 Divya Kathare data analyst | data science enthusiast
 
 LinkedIn: https://www.linkedin.com/in/divya-kathare-41323a3a0
+
 github: https://github.com/divya-kathare
 
 ⭐ support
